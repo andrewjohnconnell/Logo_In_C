@@ -1,0 +1,18 @@
+{
+DO A FROM 1 TO 25000 {
+FD A
+RT 42
+LT 17
+FD 9
+RT 99
+FD 22
+RT 18
+DO B FROM 1 TO 64 {
+SET C := A 5 / ;
+FD C
+RT 81
+FD 19
+LT 314
+}
+}
+}

@@ -1,0 +1,13 @@
+{
+DO A FROM 1 TO 5000 {
+FD A
+RT 31
+DO B FROM 1 TO 8 {
+SET C := A 5 / ;
+FD C
+DO J FROM 1 TO 22 {
+FD 9
+RT 144 }
+LT 92
+} }
+}

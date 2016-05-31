@@ -1,0 +1,21 @@
+{
+DO A FROM 1 TO 50 {
+FD A
+RT 117.2
+DO B FROM 1 TO 47 {
+SET C := A 5 / ;
+FD C
+LT 71.5
+}
+
+}
+
+DO G FROM 1 TO 50 {
+FD A
+DO X FROM 1 TO 27 {
+LT 4.8
+FD 2
+}
+RT 77
+}
+}

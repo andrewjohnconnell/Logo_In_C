@@ -1,0 +1,10 @@
+{
+DO A FROM 1 TO 5000 {
+FD A
+LT 20
+DO B FROM 1 TO 16 {
+SET C := A 5 / ;
+FD C
+LT 135
+} }
+}
