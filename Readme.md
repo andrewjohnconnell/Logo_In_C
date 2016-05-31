@@ -11,4 +11,4 @@ I've built this out as an interpreter and placed some example files in the direc
 For Linux users, I've included a makefile (it SHOULD work on OSX as well -> but don't quote me on that).
 Please make sure you've got SDL2 installed on your system before you try running this.
 
-To execute on the command line, simply use: ./turtles '<filename>' or ./turtles '<filename>' '<extension tags>' as required.
+To execute on the command line, simply use: ./turtles '\<filename\>' or ./turtles '\<filename\>' '\<extension tags\>' as required.
